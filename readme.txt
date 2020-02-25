@@ -1,0 +1,1 @@
+This is the second assignment of the Operating Systems module at FIT. It was supposed to help us learn multithreading.
